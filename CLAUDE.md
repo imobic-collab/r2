@@ -55,54 +55,6 @@ contact@relevantstudio.ro · 0774 541 067
 | "Conversion rate optimization" | "Site care aduce mai mulți clienți" |
 | "Schema markup LocalBusiness" | "Te facem găsibil pe Google Maps" |
 
----
-
-## 4. DESIGN SYSTEM
-
-### Mood vizual — "Liquid Glass"
-
-- Background cream-gold cu accente glass
-- Hero homepage = **Three.js Glass Sphere interactivă**
-- Pagina /servicii/web-design = **Three.js Lava Lamp 3D opulent** (radical)
-- Cards stil rlvntstudio: italic serif + sans uppercase
-- Servicii listate stil rlvntstudio (lista mare cu hover)
-- Mult whitespace, Fraunces (serif italic) + Onest (sans)
-- Imagini AI surrealiste per nișă
-
-### Paletă culori brand
-
-```css
---bg: #F8F6F1
---bg-elevated: #FDFCF9
---surface: #FFFFFF
---text-primary: #14120E
---text-soft: #3D3A33
---text-mute: #7A766C
---gold: #A88B4A
---gold-deep: #7A6432
---gold-glow: rgba(168, 139, 74, 0.25)
---border: rgba(20, 18, 14, 0.08)
-```
-
-### Accente per nișă (subtile, ~10-15% din pagină)
-
-```css
---accent-dental: #4ECDE5     /* cyan rece */
---accent-barber: #C9A35A     /* gold warm */
---accent-beauty: #E8A4B8     /* rose */
---accent-avocat: #8B6F47     /* sepia bronze */
---accent-psiholog: #B5A8D5   /* lavender */
-```
-
-### Tipografie
-
-- Display: Fraunces (serif, italic accents)
-- Sans: Onest
-- Mono: JetBrains Mono
-
-### Logo
-
-Inline: `Relevant.studio` — Fraunces italic pentru "Relevant", dot gold accent #A88B4A, "studio" cu Onest medium.
 
 ---
 
